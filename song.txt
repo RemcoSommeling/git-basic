@@ -2,11 +2,14 @@ The snow glows
 Bright on the mountain tonigt
 A footprint to be seen
 <<<<<<< HEAD
+<<<<<<< HEAD
 new line
 first commit in feature
 second commit
 third commit
 fourth commit
 final commit
+=======
+>>>>>>> 7d94cf19bceac8927eeb121cb87d0b53aa85da41
 =======
 >>>>>>> 7d94cf19bceac8927eeb121cb87d0b53aa85da41
