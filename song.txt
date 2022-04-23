@@ -6,3 +6,4 @@ first commit in feature
 second commit
 third commit
 fourth commit
+final commit
